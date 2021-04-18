@@ -401,12 +401,12 @@ var Icon$p = function (props) {
 
 var Icon$q = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 26 26" }, props),
-        React__default['default'].createElement("image", { height: "26", href: '/images/blzd/logo.png' })));
+        React__default['default'].createElement("image", { height: "26", href: '/images/flf/logo.png' })));
 };
 
 var Icon$r = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 26 26" }, props),
-        React__default['default'].createElement("image", { height: "26", href: '/images/blzd/logoRound.png' })));
+        React__default['default'].createElement("image", { height: "26", href: '/images/flf/logoRound.png' })));
 };
 
 var Icon$s = function (props) {
@@ -2039,7 +2039,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     _a.isDark; var props = __rest(_a, ["isDark"]);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { height: "26", href: '/images/blzd/logoWithTextFalafel.png' })));
+        React__default['default'].createElement("image", { height: "26", href: '/images/flf/logoWithTextFalafel.png' })));
 };
 var LogoWithText = React__default['default'].memo(Logo, function (prev, next) { return prev.isDark === next.isDark; });
 
@@ -2225,7 +2225,7 @@ var links = [
     {
         label: 'Github',
         icon: 'GithubIcon',
-        href: 'https://github.com/blzd-dev',
+        href: 'https://github.com/ilan9175',
         external: true,
     },
     {
