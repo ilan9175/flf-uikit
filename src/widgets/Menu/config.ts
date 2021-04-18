@@ -50,7 +50,7 @@ export const links = [
   {
     label: 'Github',
     icon: 'GithubIcon',
-    href: 'https://github.com/blzd-dev',
+    href: 'https://github.com/ilan9175',
     external: true,
   },
   {
