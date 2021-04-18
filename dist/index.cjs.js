@@ -2039,7 +2039,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     _a.isDark; var props = __rest(_a, ["isDark"]);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { height: "26", href: '/images/blzd/logoWithText.png' })));
+        React__default['default'].createElement("image", { height: "26", href: '/images/blzd/logoWithTextFalafel.png' })));
 };
 var LogoWithText = React__default['default'].memo(Logo, function (prev, next) { return prev.isDark === next.isDark; });
 
