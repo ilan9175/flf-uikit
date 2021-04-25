@@ -2039,7 +2039,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     _a.isDark; var props = __rest(_a, ["isDark"]);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { height: "26", href: '/images/flf/logoWithTextFalafel.png' })));
+        React__default['default'].createElement("image", { height: "26", href: '/images/flf/logoWithTextMoonica.png' })));
 };
 var LogoWithText = React__default['default'].memo(Logo, function (prev, next) { return prev.isDark === next.isDark; });
 
@@ -2858,7 +2858,7 @@ var templateObject_1$N;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#b98503",
+    primary: "#ffffff",
     primaryBright: "#668aed",
     primaryDark: "#3357ba",
     secondary: "#40c2e9",
@@ -2868,7 +2868,7 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#fcf0d9", backgroundDisabled: "#c4d1dd", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#46557d", tertiary: "#EFF4F5", text: "#b98503", textDisabled: "#828b93", textSubtle: "#46557d", borderColor: "#98a3ac", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#050556", backgroundDisabled: "#c4d1dd", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#46557d", tertiary: "#EFF4F5", text: "#ffffff", textDisabled: "#828b93", textSubtle: "#46557d", borderColor: "#98a3ac", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#40c2e9", background: "#100C18", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", inputSecondary: "#66578D", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#A28BD4", borderColor: "#524B63", card: "#27262c", gradients: {
