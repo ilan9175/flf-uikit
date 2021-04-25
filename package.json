@@ -1,7 +1,7 @@
 {
   "name": "flf-uikit",
-  "version": "1.0.6",
-  "description": "Set of UI components for Falafel projects",
+  "version": "1.0.7",
+  "description": "Set of UI components for Moonica projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",

@@ -1,6 +1,6 @@
-# 🥙 Falafel UIkit
+# 🌙 Moonica UIkit
 
-Falafel UIkit is a set of React components and hooks used to build pages on Falafel's apps. It also contains a theme file for dark and light mode.
+Moonica UIkit is a set of React components and hooks used to build pages on Moonica's apps. It also contains a theme file for dark and light mode.
 This project is fork from pancakeswap-uikit
 
 ## Install
